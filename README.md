@@ -69,7 +69,7 @@ Upon initial obstacle detection, the system randomly selects either a left or ri
 
 The complete system is implemented in MATLAB/Simulink using a modular block-based architecture.
 
-![Simulink Architecture](Screenshot 2026-10-25 154015_2.png)
+![Simulink Architecture](simulink_architecture.png)
 
 ### 3.1 Kinematic Model
 The robot is modeled using differential drive kinematics.
