@@ -58,7 +58,7 @@ Based on measured distance $d$ from the ultrasonic sensor:
 ## 3. Simulation Architecture
 The complete system is implemented in MATLAB/Simulink using a modular block-based architecture. The primary model file integrates several subsystems representing different aspects of robot dynamics, sensing, and control.
 
-![Simulink Architecture](Robot Trajectory Plot.png)
+![Simulink Architecture]([Robot Trajectory Plot.png](https://github.com/Shubhu1-ai/Vaccum_Cleaner_Simulink/blob/3d582f2288693ca13a34d5f6f9ee6f28faf878c5/Robot%20Trajectory%20Plot.png))
 
 ### 3.1 Kinematic Model
 The relationship between individual wheel angular velocities and the robot's center linear and angular velocities is given by:
