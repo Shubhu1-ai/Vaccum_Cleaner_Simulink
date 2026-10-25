@@ -87,7 +87,7 @@ The robot successfully executes the spiral trajectory pattern, expanding outward
 ### 4.2 Cleaning Coverage & Combined Visualization
 The grid-based occupancy approach tracks the $0.4~m$ cleaning radius. The combined visualization below overlays the robot's path on the coverage map, illustrating the correlation between trajectory execution and area cleaning. 
 
-![Combined Visualization](Combined Visual.png)
+![Combined Visualization](Combined_Visual.png)
 
 **Performance Metrics:**
 *   **Simulation Duration:** $1000~s$
