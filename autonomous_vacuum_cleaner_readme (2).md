@@ -104,10 +104,7 @@ The grid-based occupancy approach tracks the $0.4~m$ cleaning radius. The combin
 *   **Required Toolboxes:** Simulink, Stateflow
 *   **Operating System:** Windows, macOS, or Linux
 
-### 5.2 File Structure
-![File Structure](image_06fb5a.png)
-
-### 5.3 Execution Procedure
+### 5.2 Execution Procedure
 1. Extract the provided archive to a local directory.
 2. Open MATLAB and navigate to the extracted folder.
 3. Open `ZigZag_robot_simulation.m` in the MATLAB Editor.
