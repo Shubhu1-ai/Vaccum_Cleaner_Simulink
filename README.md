@@ -2,7 +2,7 @@
 
 **Course:** ANNEE 4 - INDUSTRY AND ROBOTICS (MOBILE ROBOTICS)  
 **Institution:** École Supérieure d'Ingénieurs Léonard de Vinci (ESILV)  
-**Authors:** Bollu Shubham N., Athul Thekkinkattil  
+**Authors:** Bollu Shubham N. 
 **Instructor:** Laurent DELALE  
 **Date:** November 06, 2025  
 
